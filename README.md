@@ -1,1 +1,1 @@
-# Vue + VueRouter + Taildwind + TypeScript + Axios + formkit/auto-animate + Vite Project
+# Vue + VueRouter + Tailwind + TypeScript + Axios + formkit/auto-animate + Vite Project
